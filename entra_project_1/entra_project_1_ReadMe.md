@@ -6,7 +6,7 @@
 
 # Purpose
 
-**1. Gain familirity with both the Microsoft Entra ID and Microsoft 365 admin portals**
+**1. Gain familiarity with both the Microsoft Entra ID and Microsoft 365 admin portals**
 
 **2. Practice basic Entra ID concepts including:**
 
