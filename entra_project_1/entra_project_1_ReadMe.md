@@ -6,6 +6,9 @@
 
 # Purpose
 
+This is a entry-level Microsoft Entra ID lab and designed to provide intial exposure to the Entra ID/Microsoft 365 admin portal.  It is designed to be able to practice basic 
+Entra skills (listed below) in a way that is fun and engaging. 
+
 **1. Gain familiarity with both the Microsoft Entra ID and Microsoft 365 admin portals**
 
 **2. Practice basic Entra ID concepts including:**
@@ -19,7 +22,8 @@
    D. Establishing company profile and custom domain
    
    E. Introducing MFA and SSPR
-
+   
+**3. Do this in such a way that is fun and engaging**
    
 # Platform and Tools
 Microsoft EntraID portal (entra.microsoft.com)
