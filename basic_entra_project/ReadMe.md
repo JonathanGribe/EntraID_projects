@@ -2,9 +2,14 @@
 
 # Entra ID Basic Lab 
 
+**Lab created by Jonathan Gribe**
+
 # Purpose
-1. Gain familirity with both the Microsoft Entra ID and Microsoft 365 admin portals
-2. Practice basic Entra ID concepts including:
+
+**1. Gain familirity with both the Microsoft Entra ID and Microsoft 365 admin portals**
+
+**2. Practice basic Entra ID concepts including:**
+
    A. User and group creation (both manually and through bulk creation tool)
    
    B. Assigning Roles and licenses
@@ -13,7 +18,7 @@
    
    D. Establishing company profile and custom domain
    
-   E. MFA and SSPR
+   E. Introducing MFA and SSPR
 
    
 # Platform and Tools
