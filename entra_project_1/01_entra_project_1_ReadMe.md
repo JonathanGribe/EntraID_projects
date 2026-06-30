@@ -23,11 +23,6 @@ Entra skills (listed below) in a way that is fun and engaging.
    
    E. Introducing MFA and SSPR
    
-**3. Do this in such a way that is fun and engaging**
-   
-# Platform and Tools
-Microsoft EntraID portal (entra.microsoft.com)
 
-Microsoft 365 Admin Portal (admin.microsoft.com)
 
-Godaddy - for custom domain ame (godaddy.com)
+
