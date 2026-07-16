@@ -46,10 +46,10 @@ graph TD
 | Design               | UX/UI Designer            | Interface design, prototyping                               | Figma Professional, Microsoft 365 BS          | Level 2 – Design access |
 | Audio                | Audio Lead                | Audio direction, mixing                                     | Pro Tools Studio or Reaper, Microsoft 365 BS  | Level 2 – Audio elevated |
 | Audio                | Sound Designer            | SFX creation, editing                                       | Pro Tools Artist or Reaper                    | Level 1 – Audio standard |
-| IT                   | IT Manager                | Infrastructure, security, identity management               | Microsoft 365 Business Premium                | Level 4 – IT admin |
+| IT                   | IT Manager                | Infrastructure, security, identity management               | Jira, Confluence, Microsoft 365 Business Premium                | Level 4 – IT admin |
 | Operations / HR      | HR Manager                | Hiring, payroll, compliance                                 | Microsoft 365 Business Standard, HRIS Basic   | Level 2 – HR access |
-| Customer Support     | Support Lead              | Ticket escalation, QA                                       | Zendesk Admin, Microsoft 365 BS               | Level 2 – Support elevated |
-| Customer Support     | Support Specialist        | Customer tickets                                            | Zendesk Agent, Microsoft 365 BS               | Level 1 – Support standard |
+| Customer Support     | Support Lead              | Ticket escalation, QA                                       | Jira, Confluence, Microsoft 365 BS               | Level 2 – Support elevated |
+| Customer Support     | Support Specialist        | Customer tickets                                            | Jira, Confluence, Microsoft 365 BS               | Level 1 – Support standard |
 
 
 **Required SaaS applications:**
@@ -73,8 +73,16 @@ graph TD
 | Confluence                     | https://www.atlassian.com/software/confluence |
 
 
+**Note:** BlazeFaction utilizes multiple SaaS applications across engineering, creative, operations, and support teams. Due to lab scope constraints, only selected applications were integrated with Microsoft Entra ID. Additional applications are documented as future identity integrations.
 
-**We can get our Microsoft 365 licensing through the developer program: https://developer.microsoft.com/en-us/microsoft-365/dev-program**
+**Applications implemented:**
+
+✅ Microsoft 365 Business Premium
+✅ GitHub Team
+✅ Jira
+✅ Confluence
+✅ Adobe Creative Cloud 
+
 
 
 
