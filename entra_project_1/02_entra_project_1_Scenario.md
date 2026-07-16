@@ -54,15 +54,18 @@ graph TD
 
 **Table of Entra ID groups (based on Departments) and corresponding dynamic group rule:**
 
-| Security Group           | Department value    | Dynamic membership rule                     |
+| Security Group           | Department          | Dynamic membership rule                     |
 | ------------------------ | ------------------- | ------------------------------------------- |
+| `sg_Executive`           | Executive           | `user.department -eq "Executive"`           |
 | `sg_Art`                 | Art                 | `user.department -eq "Art"`                 |
 | `sg_Audio`               | Audio               | `user.department -eq "Audio"`               |
 | `sg_Creative Leadership` | Creative Leadership | `user.department -eq "Creative Leadership"` |
 | `sg_Customer Support`    | Customer Support    | `user.department -eq "Customer Support"`    |
 | `sg_Design`              | Design              | `user.department -eq "Design"`              |
 | `sg_Engineering`         | Engineering         | `user.department -eq "Engineering"`         |
+| `sg_ITOps`               | IT                  | `user.department -eq "IT"`                  |
 | `sg_OperationsHR`        | Operations / HR     | `user.department -eq "Operations / HR"`     |
+
 
 **Required SaaS applications:**
 
