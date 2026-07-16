@@ -26,4 +26,4 @@ Refer: https://github.com/JonathanGribe/EntraID_projects/blob/main/BlazeFaction_
 
 **Step 6: Changed groups membership type from "Active" to "Dynamic" and set dynamic rules**
 
-**Step 7: Acquired Licenses for M365 and SaaS products**
+**Step 7: Acquired Licenses for M365 Business Premium and SaaS products**
