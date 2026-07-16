@@ -13,6 +13,17 @@ Godaddy - for custom domain name (godaddy.com)
 # Lab Process
 ## Step by Step walkthrough
 
-**Imported 25 users:** 
+Step 1 - Acquire platforms
+
+Step 2 - Created company organization
+
+Step 3: Created groups (as per the company setup) - Both security and M365 
+
+**Step 5 - Imported 25 users via bulk creation tool:** 
+ChatGPT was used to aid in this process. Follow the default Bulk Creation template provided on the Entra ID platform
 
 Refer: https://github.com/JonathanGribe/EntraID_projects/blob/main/BlazeFaction_EntraID_Users_25.csv
+
+**Step 6: Changed groups membership type from "Active" to "Dynamic" and set dynamic rules**
+
+**Step 7: Acquired Licenses for M365 and SaaS products**
