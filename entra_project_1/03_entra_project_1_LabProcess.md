@@ -8,7 +8,11 @@ Microsoft EntraID portal (entra.microsoft.com)
 
 Microsoft 365 Admin Portal (admin.microsoft.com)
 
-Godaddy - for custom domain ame (godaddy.com)
+Godaddy - for custom domain name (godaddy.com)
 
 # Lab Process
 ## Step by Step walkthrough
+
+**Imported 25 users:** 
+
+Refer: https://github.com/JonathanGribe/EntraID_projects/blob/main/BlazeFaction_EntraID_Users_25.csv
