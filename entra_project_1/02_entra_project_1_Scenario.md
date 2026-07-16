@@ -52,6 +52,18 @@ graph TD
 | Customer Support     | Support Specialist        | Customer tickets                                            | Jira, Confluence, Microsoft 365 BS               | Level 1 – Support standard |
 
 
+**Table of Entra ID groups (based on Departments) and corresponding dynamic group rule:**
+
+| Security Group           | Department value    | Dynamic membership rule                     |
+| ------------------------ | ------------------- | ------------------------------------------- |
+| `sg_Art`                 | Art                 | `user.department -eq "Art"`                 |
+| `sg_Audio`               | Audio               | `user.department -eq "Audio"`               |
+| `sg_Creative Leadership` | Creative Leadership | `user.department -eq "Creative Leadership"` |
+| `sg_Customer Support`    | Customer Support    | `user.department -eq "Customer Support"`    |
+| `sg_Design`              | Design              | `user.department -eq "Design"`              |
+| `sg_Engineering`         | Engineering         | `user.department -eq "Engineering"`         |
+| `sg_OperationsHR`        | Operations / HR     | `user.department -eq "Operations / HR"`     |
+
 **Required SaaS applications:**
 
 
@@ -71,6 +83,8 @@ graph TD
 | HRIS Basic (BambooHR/HiBob/etc.) | https://www.bamboohr.com / https://www.hibob.com |
 | Jira                           | https://www.atlassian.com/software/jira |
 | Confluence                     | https://www.atlassian.com/software/confluence |
+
+
 
 
 **Note:** BlazeFaction utilizes multiple SaaS applications across engineering, creative, operations, and support teams. Due to lab scope constraints, only selected applications were integrated with Microsoft Entra ID. Additional applications are documented as future identity integrations.
