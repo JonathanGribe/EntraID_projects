@@ -95,8 +95,7 @@ sg_CS-Management
 | Confluence                     | https://www.atlassian.com/software/confluence |
 
 **25 users imported:**
-
-
+Refer: https://github.com/JonathanGribe/EntraID_projects/blob/main/BlazeFaction_EntraID_Users_25.csv
 
 **Note:** BlazeFaction utilizes multiple SaaS applications across engineering, creative, operations, and support teams. Due to lab scope constraints, only selected applications were integrated with Microsoft Entra ID. Additional applications are documented as future identity integrations.
 
