@@ -63,8 +63,15 @@ graph TD
 | `sg_Customer Support`    | Customer Support    | `user.department -eq "Customer Support"`    |
 | `sg_Design`              | Design              | `user.department -eq "Design"`              |
 | `sg_Engineering`         | Engineering         | `user.department -eq "Engineering"`         |
-| `sg_ITOps`               | IT                  | `user.department -eq "IT"`                  |
+| `sg_IT`               | IT                  | `user.department -eq "IT"`                  |
 | `sg_OperationsHR`        | Operations / HR     | `user.department -eq "Operations / HR"`     |
+
+
+**Additional Groups (Added later):**
+sg_IT-Leads
+sg_CS-Management
+
+
 
 
 **Required SaaS applications:**
