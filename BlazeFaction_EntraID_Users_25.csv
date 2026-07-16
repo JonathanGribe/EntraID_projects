@@ -1,0 +1,26 @@
+Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Account enabled (true/false) [accountEnabled],First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [officeLocation],City [city],ZIP or postal code [postalCode],Business phone [businessPhones],Mobile phone [mobilePhone]
+Blaze Carter,blaze.carter@blazefaction.com,TempPass!2026,true,Blaze,Carter,CEO,Executive,US,100 Studio Way,PA,US,Headquarters,Pittsburgh,15222,+1 555-1001,+1 555-2001
+Avery Mitchell,avery.mitchell@blazefaction.com,TempPass!2026,true,Avery,Mitchell,Creative Director,Creative Leadership,US,100 Studio Way,PA,US,Headquarters,Pittsburgh,15222,+1 555-1002,+1 555-2002
+Ethan Brooks,ethan.brooks@blazefaction.com,TempPass!2026,true,Ethan,Brooks,Lead Software Engineer,Engineering,US,100 Studio Way,PA,US,Engineering,Pittsburgh,15222,+1 555-1003,+1 555-2003
+Maya Patel,maya.patel@blazefaction.com,TempPass!2026,true,Maya,Patel,Developer,Engineering,US,100 Studio Way,PA,US,Engineering,Pittsburgh,15222,+1 555-1004,+1 555-2004
+Noah Reynolds,noah.reynolds@blazefaction.com,TempPass!2026,true,Noah,Reynolds,Developer,Engineering,US,100 Studio Way,PA,US,Engineering,Pittsburgh,15222,+1 555-1005,+1 555-2005
+Sophia Nguyen,sophia.nguyen@blazefaction.com,TempPass!2026,true,Sophia,Nguyen,QA Tester,Engineering,US,100 Studio Way,PA,US,Engineering,Pittsburgh,15222,+1 555-1006,+1 555-2006
+Liam Foster,liam.foster@blazefaction.com,TempPass!2026,true,Liam,Foster,Art Director,Art,US,100 Studio Way,PA,US,Art Department,Pittsburgh,15222,+1 555-1007,+1 555-2007
+Emma Wilson,emma.wilson@blazefaction.com,TempPass!2026,true,Emma,Wilson,3D Artist,Art,US,100 Studio Way,PA,US,Art Department,Pittsburgh,15222,+1 555-1008,+1 555-2008
+Lucas Bennett,lucas.bennett@blazefaction.com,TempPass!2026,true,Lucas,Bennett,Concept Artist,Art,US,100 Studio Way,PA,US,Art Department,Pittsburgh,15222,+1 555-1009,+1 555-2009
+Olivia Scott,olivia.scott@blazefaction.com,TempPass!2026,true,Olivia,Scott,UX/UI Designer,Design,US,100 Studio Way,PA,US,Design,Pittsburgh,15222,+1 555-1010,+1 555-2010
+Jackson Lee,jackson.lee@blazefaction.com,TempPass!2026,true,Jackson,Lee,Audio Lead,Audio,US,100 Studio Way,PA,US,Audio,Pittsburgh,15222,+1 555-1011,+1 555-2011
+Isabella Garcia,isabella.garcia@blazefaction.com,TempPass!2026,true,Isabella,Garcia,Sound Designer,Audio,US,100 Studio Way,PA,US,Audio,Pittsburgh,15222,+1 555-1012,+1 555-2012
+Daniel Kim,daniel.kim@blazefaction.com,TempPass!2026,true,Daniel,Kim,IT Manager,IT,US,100 Studio Way,PA,US,IT,Pittsburgh,15222,+1 555-1013,+1 555-2013
+Harper Adams,harper.adams@blazefaction.com,TempPass!2026,true,Harper,Adams,HR Manager,Operations / HR,US,100 Studio Way,PA,US,Operations,Pittsburgh,15222,+1 555-1014,+1 555-2014
+Benjamin Clark,benjamin.clark@blazefaction.com,TempPass!2026,true,Benjamin,Clark,Support Lead,Customer Support,US,100 Studio Way,PA,US,Support,Pittsburgh,15222,+1 555-1015,+1 555-2015
+Charlotte Evans,charlotte.evans@blazefaction.com,TempPass!2026,true,Charlotte,Evans,Support Specialist,Customer Support,US,100 Studio Way,PA,US,Support,Pittsburgh,15222,+1 555-1016,+1 555-2016
+Henry Turner,henry.turner@blazefaction.com,TempPass!2026,true,Henry,Turner,Developer,Engineering,US,100 Studio Way,PA,US,Engineering,Pittsburgh,15222,+1 555-1017,+1 555-2017
+Amelia Martin,amelia.martin@blazefaction.com,TempPass!2026,true,Amelia,Martin,QA Tester,Engineering,US,100 Studio Way,PA,US,Engineering,Pittsburgh,15222,+1 555-1018,+1 555-2018
+William Harris,william.harris@blazefaction.com,TempPass!2026,true,William,Harris,3D Artist,Art,US,100 Studio Way,PA,US,Art Department,Pittsburgh,15222,+1 555-1019,+1 555-2019
+Mia Anderson,mia.anderson@blazefaction.com,TempPass!2026,true,Mia,Anderson,Developer,Engineering,US,100 Studio Way,PA,US,Engineering,Pittsburgh,15222,+1 555-1020,+1 555-2020
+James Walker,james.walker@blazefaction.com,TempPass!2026,true,James,Walker,Sound Designer,Audio,US,100 Studio Way,PA,US,Audio,Pittsburgh,15222,+1 555-1021,+1 555-2021
+Ella Thomas,ella.thomas@blazefaction.com,TempPass!2026,true,Ella,Thomas,Concept Artist,Art,US,100 Studio Way,PA,US,Art Department,Pittsburgh,15222,+1 555-1022,+1 555-2022
+Michael White,michael.white@blazefaction.com,TempPass!2026,true,Michael,White,UX/UI Designer,Design,US,100 Studio Way,PA,US,Design,Pittsburgh,15222,+1 555-1023,+1 555-2023
+Grace Moore,grace.moore@blazefaction.com,TempPass!2026,true,Grace,Moore,Support Specialist,Customer Support,US,100 Studio Way,PA,US,Support,Pittsburgh,15222,+1 555-1024,+1 555-2024
+Alexander King,alexander.king@blazefaction.com,TempPass!2026,true,Alexander,King,IT Administrator,IT,US,100 Studio Way,PA,US,IT,Pittsburgh,15222,+1 555-1025,+1 555-2025
