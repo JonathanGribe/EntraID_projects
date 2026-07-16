@@ -94,6 +94,7 @@ sg_CS-Management
 | Jira                           | https://www.atlassian.com/software/jira |
 | Confluence                     | https://www.atlassian.com/software/confluence |
 
+**25 users imported:**
 
 
 
