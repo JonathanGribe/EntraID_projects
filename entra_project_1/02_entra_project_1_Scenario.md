@@ -33,23 +33,22 @@ graph TD
 **Table of Job Titles:**
 
 
-| Department           | Job Title                | Roles                                                       | Licenses                                      | Access Level |
-|----------------------|---------------------------|-------------------------------------------------------------|------------------------------------------------|--------------|
-| Executive            | CEO                       | Studio oversight, budgeting, approvals                     | Microsoft 365 Business Standard               | Level 4 – High access |
-| Creative Leadership  | Creative Director         | Creative vision, project oversight                          | Adobe Creative Cloud, Microsoft 365 BS        | Level 3 – Creative systems |
-| Engineering          | Lead Software Engineer    | Architecture, repo admin, CI/CD oversight                   | GitHub Team/Enterprise, Microsoft 365 BS      | Level 3 – Engineering elevated |
-| Engineering          | Developer                 | Feature development, code review                            | GitHub Team, Microsoft 365 BS                 | Level 2 – Engineering standard |
-| Engineering          | QA Tester                 | Testing, bug tracking                                       | Microsoft 365 Business Standard               | Level 1 – Limited engineering |
-| Art                  | Art Director              | Visual direction, asset approval                            | Adobe Creative Cloud                          | Level 3 – Creative elevated |
-| Art                  | 3D Artist                 | Modeling, texturing, asset creation                         | Adobe Creative Cloud, Autodesk Maya/Blender   | Level 2 – Creative workstation |
-| Art                  | Concept Artist            | Concept art, illustrations                                  | Adobe Creative Cloud                          | Level 1 – Creative standard |
-| Design               | UX/UI Designer            | Interface design, prototyping                               | Figma Professional, Microsoft 365 BS          | Level 2 – Design access |
-| Audio                | Audio Lead                | Audio direction, mixing                                     | Pro Tools Studio or Reaper, Microsoft 365 BS  | Level 2 – Audio elevated |
-| Audio                | Sound Designer            | SFX creation, editing                                       | Pro Tools Artist or Reaper                    | Level 1 – Audio standard |
-| IT                   | IT Manager                | Infrastructure, security, identity management               | Jira, Confluence, Microsoft 365 Business Premium                | Level 4 – IT admin |
-| Operations / HR      | HR Manager                | Hiring, payroll, compliance                                 | Microsoft 365 Business Standard, HRIS Basic   | Level 2 – HR access |
-| Customer Support     | Support Lead              | Ticket escalation, QA                                       | Jira, Confluence, Microsoft 365 BS               | Level 2 – Support elevated |
-| Customer Support     | Support Specialist        | Customer tickets                                            | Jira, Confluence, Microsoft 365 BS               | Level 1 – Support standard |
+| Department       | Job Title              | Roles                                         | M365 Groups | Security Group     |   |
+| ---------------- | ---------------------- | --------------------------------------------- | ----------- | ------------------ | - |
+| Executive        | CEO                    | Studio oversight, budgeting, approvals        |             | sg_Executive       |   |
+| Engineering      | Lead Software Engineer | Architecture, repo admin, CI/CD oversight     | m365_GameDevTeam            | sg_Engineering     |   |
+| Engineering      | Developer              | Feature development, code review              | m365_GameDevTeam            | sg_Engineering     |   |
+| Engineering      | QA Tester              | Testing, bug tracking                         | m365_GameDevTeam             | sg_Engineering     |   |
+| Art              | Art Director           | Visual direction, asset approval              | m365_CreativeTeam           | sg_Art             |   |
+| Art              | 3D Artist              | Modeling, texturing, asset creation           | m365_CreativeTeam           | sg_Art             |   |
+| Art              | Concept Artist         | Concept art, illustrations                    | m365_CreativeTeam            | sg_Art             |   |
+| Design           | UX/UI Designer         | Interface design, prototyping                 | m365_CreativeTeam           | sg_Design          |   |
+| Audio            | Audio Lead             | Audio direction, mixing                       | m365_CreativeTeam            | sg_Audio           |   |
+| Audio            | Sound Designer         | SFX creation, editing                         | m365_CreativeTeam             | sg_Audio           |   |
+| IT               | IT Manager             | Infrastructure, security, identity management |  m365_ITOps           | sg_IT              |   |
+| Operations / HR  | HR Manager             | Hiring, payroll, compliance                   | m365_HROperations            | sg_HumanResources  |   |
+| Customer Support | Support Lead           | Ticket escalation, QA                         | m365_CustomerSuccess            | sg_CustomerSupport |   |
+| Customer Support | Support Specialist     | Customer tickets                              |m365_CustomerSuccess             | sg_CustomerSupport | _ |
 
 
 **Table of Entra ID groups (based on Departments) and corresponding dynamic group rule:**
@@ -59,7 +58,6 @@ graph TD
 | `sg_Executive`           | Executive           | `user.department -eq "Executive"`           |
 | `sg_Art`                 | Art                 | `user.department -eq "Art"`                 |
 | `sg_Audio`               | Audio               | `user.department -eq "Audio"`               |
-| `sg_Creative Leadership` | Creative Leadership | `user.department -eq "Creative Leadership"` |
 | `sg_Customer Support`    | Customer Support    | `user.department -eq "Customer Support"`    |
 | `sg_Design`              | Design              | `user.department -eq "Design"`              |
 | `sg_Engineering`         | Engineering         | `user.department -eq "Engineering"`         |
@@ -67,9 +65,9 @@ graph TD
 | `sg_OperationsHR`        | Operations / HR     | `user.department -eq "Operations / HR"`     |
 
 
-**Additional Groups (Added later):**
-sg_IT-Leads
-sg_CS-Management
+**Leadership Groups and dynamic rules:**
+
+
 
 
 
