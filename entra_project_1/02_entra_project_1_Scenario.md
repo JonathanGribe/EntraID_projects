@@ -35,22 +35,22 @@ graph TD
 
 | Department       | Job Title              | Roles                                         | M365 Groups | Security Group     |   |
 | ---------------- | ---------------------- | --------------------------------------------- | ----------- | ------------------ | - |
-| Executive        | CEO                    | Studio oversight, budgeting, approvals        |             | sg_Executive       |   |
-| Engineering      | Lead Software Engineer | Architecture, repo admin, CI/CD oversight     | m365_GameDevTeam            | sg_Engineering     |   |
+| Executive        | **CEO**                    | Studio oversight, budgeting, approvals        |             | sg_Executive       |   |
+| Engineering      | **Lead Software Engineer** | Architecture, repo admin, CI/CD oversight     | m365_GameDevTeam            | sg_Engineering     |   |
 | Engineering      | Developer              | Feature development, code review              | m365_GameDevTeam            | sg_Engineering     |   |
 | Engineering      | QA Tester              | Testing, bug tracking                         | m365_GameDevTeam             | sg_Engineering     |   |
-| Art              | Art Director           | Visual direction, asset approval              | m365_CreativeTeam           | sg_Art             |   |
+| Art              | **Art Director**           | Visual direction, asset approval              | m365_CreativeTeam           | sg_Art             |   |
 | Art              | 3D Artist              | Modeling, texturing, asset creation           | m365_CreativeTeam           | sg_Art             |   |
 | Art              | Concept Artist         | Concept art, illustrations                    | m365_CreativeTeam            | sg_Art             |   |
 | Design           | UX/UI Designer         | Interface design, prototyping                 | m365_CreativeTeam           | sg_Design          |   |
 | Audio            | Audio Lead             | Audio direction, mixing                       | m365_CreativeTeam            | sg_Audio           |   |
 | Audio            | Sound Designer         | SFX creation, editing                         | m365_CreativeTeam             | sg_Audio           |   |
-| IT               | IT Administrator             | Infrastructure, security, identity management |  m365_ITOps           | sg_IT              |   |
-| IT | Client Services Analyst | Managing users calling in about technical issues | m365_ITOps | sg_IT
-| Operations / HR  | HR Manager             | Hiring, payroll, compliance                   | m365_HROperations            | sg_HumanResources  |   |
-| Customer Support | Support Lead           | Ticket escalation, QA                         | m365_CustomerSuccess            | sg_CustomerSupport |   |
+| IT               |  **IT Administrator**             | Infrastructure, security, identity management |  m365_ITOps           | sg_IT              |   |
+| IT | Client Services Analyst | Managing users with basic technical issues | m365_ITOps | sg_IT
+| Operations / HR  | **HR Manager**             | Hiring, payroll, compliance                   | m365_HROperations            | sg_HumanResources  |   |
+| Customer Support | **Support Lead**           | Ticket escalation, QA                         | m365_CustomerSuccess            | sg_CustomerSupport |   |
 | Customer Support | Support Specialist     | Customer tickets                              |m365_CustomerSuccess             | sg_CustomerSupport | _ |
-|  Marketing | Marketing Manager | Advertising for company/game | m365_Marketing |sg_marketing
+|  Marketing | **Marketing Manager** | Advertising for company/game | m365_Marketing |sg_marketing
 
 
 **Table of Entra ID groups (based on Departments) and corresponding dynamic group rule:**
@@ -101,9 +101,7 @@ graph TD
 
 ✅ Microsoft 365 Business Premium
 ✅ GitHub Team
-✅ Jira
-✅ Confluence
-✅ Adobe Creative Cloud 
+ 
 
 
 
