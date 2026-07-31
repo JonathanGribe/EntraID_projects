@@ -46,4 +46,5 @@ This is where photos of all of the work you have done goes here.  Snap shots of 
 | sg_marketing           | Security      | `user.department -eq "Marketing"`                                                                                                          | On     |
 | sg_Customer Support    | Security      | `user.department -eq "Customer Support"`                                                                                                   | On     |
 
+**Created with Microsoft Graph:** https://github.com/JonathanGribe/EntraID_projects/blob/main/entraproject_1_dynamicmemberjson.md
 
