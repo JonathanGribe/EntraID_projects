@@ -1,7 +1,9 @@
 # Entra id project_1: Dynamic group membership rules
 
+In order to create a table of all the dynamic membership rules (found in the lab report), we use Microsoft Graph to pull .json information for those rules and placed them into chatGPT to create a table.
+
 ## Microsoft Graph Query
-In order to create a table of all the dynamic membership rules, we use Microsoft graph and run query:
+
 
 ```
 https://graph.microsoft.com/v1.0/groups?$select=displayName,mailNickname,groupTypes,membershipRule,membershipRuleProcessingState
