@@ -218,5 +218,5 @@ https://graph.microsoft.com/v1.0/groups?$select=displayName,mailNickname,groupTy
 }
 ```
 
-## Converted .json information to table found in the [Lab Report]<   >
+## Back to lab Report
 
