@@ -65,6 +65,7 @@ graph TD
 | `sg_Engineering`         | Engineering         | `user.department -eq "Engineering"`         |
 | `sg_IT`               | IT                  | `user.department -eq "IT"`                  |
 | `sg_OperationsHR`        | Operations / HR     | `user.department -eq "Operations / HR"`     |
+|`sg_Accounting`          |Accounting          | `user.department -eq "Accounting"`  |
 
 
 **User roles and access**
