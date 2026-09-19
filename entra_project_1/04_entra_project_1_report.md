@@ -56,4 +56,6 @@ Chart
 **IT administrator**
 <img width="1561" height="838" alt="image" src="https://github.com/user-attachments/assets/6663fc9b-e32c-446e-9732-b3676df847e5" />
 
+**Service Desk Analyst**
+<img width="1584" height="391" alt="image" src="https://github.com/user-attachments/assets/4062435a-5c38-4f03-926d-4afac35eb8b6" />
 
