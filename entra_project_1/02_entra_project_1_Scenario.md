@@ -67,6 +67,16 @@ graph TD
 | `sg_OperationsHR`        | Operations / HR     | `user.department -eq "Operations / HR"`     |
 
 
+**User roles and access**
+
+| User Type | Entra Role / Access | What They Should Be Able to Do |
+|---|---|---|
+| CEO / Executives | Normal User | Access business applications, email, Teams, and other assigned resources without administrative privileges |
+| Accounting / Art / Engineering / HR Employees | Normal User | Access resources based on assigned groups, applications, and department membership |
+| Helpdesk Technician | Helpdesk Administrator | Reset passwords, revoke sessions, and perform basic user support tasks without broad directory access |
+| Senior Helpdesk / Identity Support | User Administrator and/or Authentication Administrator | Manage user accounts, groups, authentication methods, and more advanced identity support tasks |
+| IT Manager | User Administrator, Groups Administrator, Conditional Access Administrator, Authentication Administrator, and possibly Privileged Role Administrator | Manage user lifecycle, group membership, MFA, Conditional Access, authentication settings, privileged role assignments, and overall Entra administration |
+
 **Leadership Groups and dynamic rules:**
 
 
