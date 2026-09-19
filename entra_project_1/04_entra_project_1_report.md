@@ -48,3 +48,12 @@ This is where photos of all of the work you have done goes here.  Snap shots of 
 
 **Created with Microsoft Graph:** https://github.com/JonathanGribe/EntraID_projects/blob/main/entraproject_1_dynamicmemberjson.md
 
+
+## Role based access (Key administrators)
+
+Chart
+
+**IT administrator**
+<img width="1561" height="838" alt="image" src="https://github.com/user-attachments/assets/6663fc9b-e32c-446e-9732-b3676df847e5" />
+
+
