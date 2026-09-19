@@ -110,8 +110,8 @@ graph TD
 
 **Applications implemented:**
 
-✅ Microsoft 365 Business Premium
-✅ GitHub Team
+✅ Microsoft 365 F1
+
  
 
 
