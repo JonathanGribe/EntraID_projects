@@ -22,7 +22,7 @@ Entra skills (listed below) in a way that is fun and engaging.
    D. Establishing company profile and custom domain
    
    
-**Skills learned and tools used:**  
+**3. Skills learned and tools used:**  
 Microsoft Entra ID • Microsoft 365 • Conditional Access • Dynamic Groups
 • RBAC • CSV Provisioning • Identity Lifecycle Management • Architecture Diagrams
 
