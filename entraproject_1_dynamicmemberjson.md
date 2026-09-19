@@ -218,5 +218,5 @@ https://graph.microsoft.com/v1.0/groups?$select=displayName,mailNickname,groupTy
 }
 ```
 
-## Back to lab Report
+## [Back to lab Report](https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_1/04_entra_project_1_report.md)
 
