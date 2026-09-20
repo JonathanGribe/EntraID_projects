@@ -3,13 +3,6 @@
 # Entra ID Foundations Lab 
 **Lab created by Jonathan Gribe**
 
-## Table of Contents:
-1. README - Lab Purpose
-2. Lab Scenario
-3. Lab Setup and Process
-4. Final Report
-   
-
 
 
 # Purpose
