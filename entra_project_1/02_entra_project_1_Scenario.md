@@ -51,6 +51,7 @@ graph TD
 | Customer Support | **Support Lead**           | Ticket escalation, QA                         | m365_CustomerSuccess            | sg_CustomerSupport |   |
 | Customer Support | Support Specialist     | Customer tickets                              |m365_CustomerSuccess             | sg_CustomerSupport | _ |
 |  Marketing | **Marketing Manager** | Advertising for company/game | m365_Marketing |sg_marketing
+| Accounting | **Accountant** | Managing company finances | | sg_Accounting
 
 
 ## Table of Entra ID groups (based on Departments) and corresponding dynamic group rule:
