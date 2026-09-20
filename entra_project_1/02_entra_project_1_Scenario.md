@@ -68,6 +68,7 @@ graph TD
 | `sg_Engineering`         | Engineering         | `user.department -eq "Engineering"`         |
 | `sg_IT`               | IT                  | `user.department -eq "IT"`                  |
 | `sg_OperationsHR`        | Operations / HR     | `user.department -eq "Operations / HR"`     |
+| `sg_Marketing`          | Marketing            | `user.department -eq "Marketing"`   |
 |`sg_Accounting`          |Accounting          | `user.department -eq "Accounting"`  |
 
 
@@ -79,7 +80,7 @@ graph TD
 | Accounting / Art / Engineering / HR Employees | Normal User | Access resources based on assigned groups, applications, and department membership |
 | Helpdesk Technician | Helpdesk Administrator | Reset passwords, revoke sessions, and perform basic user support tasks without broad directory access |
 | Senior Helpdesk / Identity Support | User Administrator and/or Authentication Administrator | Manage user accounts, groups, authentication methods, and more advanced identity support tasks |
-| IT Manager | User Administrator, Groups Administrator, Conditional Access Administrator, Authentication Administrator, and possibly Privileged Role Administrator | Manage user lifecycle, group membership, MFA, Conditional Access, authentication settings, privileged role assignments, and overall Entra administration |
+| IT Adminstrator | User Administrator, Groups Administrator, Conditional Access Administrator, Authentication Administrator, and possibly Privileged Role Administrator | Manage user lifecycle, group membership, MFA, Conditional Access, authentication settings, privileged role assignments, and overall Entra administration |
 
 
 ## Required SaaS applications:
