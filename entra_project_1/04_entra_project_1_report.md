@@ -2,16 +2,18 @@
 
 
 
+
 ## Table of Contents
 
 
 
-## Tenant Overview
+
+## 1. Tenant Overview
 
 <img width="785" height="224" alt="image" src="https://github.com/user-attachments/assets/e93c541f-38c4-4ece-b2dd-38ca40accabb" />
 
 
-## Users:
+## 2. Users:
 
 <img width="1520" height="927" alt="entraproject_1_users" src="https://github.com/user-attachments/assets/e044d694-797d-4cf7-acf9-deaac57836ad" />
 
@@ -20,14 +22,14 @@
 **See full employee list:**   https://github.com/JonathanGribe/EntraID_projects/blob/main/entraproject_1_users.csv
 
 
-## Groups
+## 3. Groups
 <img width="494" height="170" alt="image" src="https://github.com/user-attachments/assets/c942d69d-9b03-4d27-ae79-3d7a4ab5a37e" />
 
 <img width="1492" height="906" alt="entraproject_1_groups" src="https://github.com/user-attachments/assets/4b878412-eb50-4fc7-826f-10ad06d0275a" />
 
 **See full groups:**  https://github.com/JonathanGribe/EntraID_projects/blob/main/entraproject_1_groups.csv
 
-### Group dynamic membership rules:
+### 3.1 Group dynamic membership rules:
 **Acquired .json through Microsoft Graph**
 
 | Group                  | Type          | Dynamic membership rule                                                                                                                    | Status |
@@ -54,20 +56,20 @@
 **Created with Microsoft Graph:** https://github.com/JonathanGribe/EntraID_projects/blob/main/entraproject_1_dynamicmemberjson.md
 
 
-## Role Based Access (Key administrators)
+## 4. Role Based Access (Key administrators)
 
 
-**IT administrator**
+### IT administrator 
 <img width="1561" height="838" alt="image" src="https://github.com/user-attachments/assets/6663fc9b-e32c-446e-9732-b3676df847e5" />
 
-**Service Desk Analyst**
+### Service Desk Analyst
 <img width="1584" height="391" alt="image" src="https://github.com/user-attachments/assets/4062435a-5c38-4f03-926d-4afac35eb8b6" />
 
-**Accountant**
+### Accountant
 <img width="1497" height="368" alt="image" src="https://github.com/user-attachments/assets/5252820c-e385-43e3-a5bb-ab72d2386bb7" />
 
 
-## License Assignment
+## 5. License Assignment
 
 **Users who were assigned the Microsoft 365 F1 license were in the customer support department who may deal with more front-end customer support.**
 
