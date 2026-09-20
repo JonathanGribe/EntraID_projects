@@ -34,5 +34,5 @@ Entra skills (listed below) in a way that is fun and engaging.
 Microsoft Entra ID • Microsoft 365 • Conditional Access • Dynamic Groups
 • RBAC • CSV Provisioning • Identity Lifecycle Management • Architecture Diagrams
 
-# [Next: Lab Scenario]()
+# [Next: Lab Scenario](https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_1/02_entra_project_1_Scenario.md)
 
