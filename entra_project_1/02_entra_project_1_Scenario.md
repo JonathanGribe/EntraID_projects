@@ -1,4 +1,4 @@
-# Entra ID Foundations Lab - Scenario
+# Entra ID Foundations Lab 
 
 # Scenario
 
