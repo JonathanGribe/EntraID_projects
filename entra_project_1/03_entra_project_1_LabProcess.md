@@ -13,19 +13,19 @@ ChatGPT - for bulk user creation (.csv import)
 # Lab Process
 ## Step by Step walkthrough
 
-Step 1 - Acquire platforms
+**Step 1** - Acquire platforms
 
-Step 2 - Created company organization
+**Step 2** - Created company organization
 
-Step 3: Created groups (as per the company setup) - Both security and M365 
+**Step 3:** Created groups (as per the company setup) - Both security and M365 
 
-**Step 5 - Imported 25 users via bulk creation tool:** 
+**Step 4 - Imported 25 users via bulk creation tool:** 
 ChatGPT was used to aid in this process. Follow the default Bulk Creation template provided on the Entra ID platform
 
 Refer: https://github.com/JonathanGribe/EntraID_projects/blob/main/BlazeFaction_EntraID_Users_25.csv
 
-**Step 6: Changed groups membership type from "Active" to "Dynamic" and set dynamic rules**
+**Step 5:** Changed groups membership type from "Active" to "Dynamic" and set dynamic rules
 
-**Step 7: Assigned roles per job title**
+**Step 6:** Assigned roles per job title
 
-**Step 8: Applied M365 F1 license**
+**Step 7:** Applied M365 F1 license
