@@ -1,8 +1,16 @@
 <img width="618" height="200" alt="image" src="https://github.com/user-attachments/assets/00b93c6a-f8d5-4e07-a359-7f88661d3c4e" />
 
 # Entra ID Basic Lab 
-
 **Lab created by Jonathan Gribe**
+
+## Table of Contents:
+1. README - Lab Purpose
+2. Lab Scenario
+3. Lab Setup and Process
+4. Final Report
+   
+
+
 
 # Purpose
 
@@ -26,4 +34,5 @@ Entra skills (listed below) in a way that is fun and engaging.
 Microsoft Entra ID • Microsoft 365 • Conditional Access • Dynamic Groups
 • RBAC • CSV Provisioning • Identity Lifecycle Management • Architecture Diagrams
 
+# [Next: Lab Scenario]()
 
