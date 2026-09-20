@@ -59,3 +59,8 @@ Chart
 **Service Desk Analyst**
 <img width="1584" height="391" alt="image" src="https://github.com/user-attachments/assets/4062435a-5c38-4f03-926d-4afac35eb8b6" />
 
+## License Assignment
+
+**Users who were assigned the Microsoft 365 F1 license were in the customer support department who may deal with more front-end customer support.**
+
+<img width="1083" height="738" alt="image" src="https://github.com/user-attachments/assets/93fc92a2-ad76-4da8-a5a4-950f12ef6e5b" />
