@@ -29,3 +29,5 @@ Refer: https://github.com/JonathanGribe/EntraID_projects/blob/main/BlazeFaction_
 **Step 6:** Assigned roles per job title
 
 **Step 7:** Applied M365 F1 license
+
+# [Next:Final Report](https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_1/04_entra_project_1_report.md)
