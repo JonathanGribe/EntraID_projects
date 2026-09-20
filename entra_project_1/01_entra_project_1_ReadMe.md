@@ -1,6 +1,6 @@
 <img width="618" height="200" alt="image" src="https://github.com/user-attachments/assets/00b93c6a-f8d5-4e07-a359-7f88661d3c4e" />
 
-# Entra ID Basic Lab 
+# Entra ID Foundations Lab 
 **Lab created by Jonathan Gribe**
 
 ## Table of Contents:
