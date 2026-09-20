@@ -10,7 +10,7 @@ corporate structure and information below:
 ```mermaid
 graph TD
     CEO["CEO"]
-    CD["Creative Director"]
+    CD["Creative Directors"]
     ENG["Engineering"]
     ART["Art"]
     DES["Design"]
