@@ -1,6 +1,5 @@
 # Basic Entra ID - Lab Process
 
-# Lab Setup
    
 ## Platform and Tools
 Microsoft EntraID portal (entra.microsoft.com)
