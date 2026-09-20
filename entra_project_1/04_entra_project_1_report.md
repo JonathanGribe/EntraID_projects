@@ -1,6 +1,11 @@
 # Entra ID Basic Lab - Report
 
-This is where photos of all of the work you have done goes here.  Snap shots of the project.
+
+
+## Table of Contents
+
+
+
 ## Tenant Overview
 
 <img width="785" height="224" alt="image" src="https://github.com/user-attachments/assets/e93c541f-38c4-4ece-b2dd-38ca40accabb" />
