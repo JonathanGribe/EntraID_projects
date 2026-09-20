@@ -15,9 +15,10 @@ graph TD
     ART["Art"]
     DES["Design"]
     AUD["Audio"]
-    IT["IT Manager"]
-    OPS["Operations / HR Manager"]
-    CS["Customer Support Lead"]
+    IT["Information Technology"]
+    OPS["Human Resources"]
+    CS["Customer Support"]
+    AC["Finance"]
 
     CEO --> CD
     CD --> ENG
@@ -28,6 +29,7 @@ graph TD
     CEO --> IT
     CEO --> OPS
     CEO --> CS
+    CEO --> AC
 ```
 
 ## User and Department Structure:
@@ -36,17 +38,17 @@ graph TD
 | Department       | Job Title              | Roles                                         | M365 Groups | Security Group     |   |
 | ---------------- | ---------------------- | --------------------------------------------- | ----------- | ------------------ | - |
 | Executive        | **CEO**                    | Studio oversight, budgeting, approvals        |             | sg_Executive       |   |
-| Engineering      | **Lead Software Engineer** | Architecture, repo admin, CI/CD oversight     | m365_GameDevTeam            | sg_Engineering     |   |
+| Engineering      | **Software Engineer Lead** | Architecture, repo admin, CI/CD oversight     | m365_GameDevTeam            | sg_Engineering     |   |
 | Engineering      | Developer              | Feature development, code review              | m365_GameDevTeam            | sg_Engineering     |   |
 | Engineering      | QA Tester              | Testing, bug tracking                         | m365_GameDevTeam             | sg_Engineering     |   |
-| Art              | **Art Director**           | Visual direction, asset approval              | m365_CreativeTeam           | sg_Art             |   |
+| Art              | **Art Lead**           | Visual direction, asset approval              | m365_CreativeTeam           | sg_Art             |   |
 | Art              | 3D Artist              | Modeling, texturing, asset creation           | m365_CreativeTeam           | sg_Art             |   |
 | Art              | Concept Artist         | Concept art, illustrations                    | m365_CreativeTeam            | sg_Art             |   |
-| Design           | UX/UI Designer         | Interface design, prototyping                 | m365_CreativeTeam           | sg_Design          |   |
-| Audio            | Audio Lead             | Audio direction, mixing                       | m365_CreativeTeam            | sg_Audio           |   |
+| Design           | **UX/UI Designer**         | Interface design, prototyping                 | m365_CreativeTeam           | sg_Design          |   |
+| Audio            | **Audio Lead**            | Audio direction, mixing                       | m365_CreativeTeam            | sg_Audio           |   |
 | Audio            | Sound Designer         | SFX creation, editing                         | m365_CreativeTeam             | sg_Audio           |   |
 | IT               |  **IT Administrator**             | Infrastructure, security, identity management |  m365_ITOps           | sg_IT              |   |
-| IT | Client Services Analyst | Managing users with basic technical issues | m365_ITOps | sg_IT
+| IT |  Service Desk Analyst | Managing users with basic technical issues | m365_ITOps | sg_IT
 | Operations / HR  | **HR Manager**             | Hiring, payroll, compliance                   | m365_HROperations            | sg_HumanResources  |   |
 | Customer Support | **Support Lead**           | Ticket escalation, QA                         | m365_CustomerSuccess            | sg_CustomerSupport |   |
 | Customer Support | Support Specialist     | Customer tickets                              |m365_CustomerSuccess             | sg_CustomerSupport | _ |
