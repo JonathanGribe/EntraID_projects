@@ -13,11 +13,11 @@ Entra skills (listed below) in a way that is fun and engaging.
 
 **2. Practice basic Entra ID concepts including:**
 
-   A. User and group creation (both manually and through bulk creation tool)
+   A. Creating users and groups of different kinds (both manually and through bulk creation tool)
    
-   B. Assigning Roles and licenses
+   B. Assigning Roles 
    
-   C. Inviting Guest users
+   C. Acquiring and assigning licenses to users
    
    D. Establishing company profile and custom domain
    
