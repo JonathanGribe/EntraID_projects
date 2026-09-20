@@ -27,7 +27,7 @@
 
 **See full groups:**  https://github.com/JonathanGribe/EntraID_projects/blob/main/entraproject_1_groups.csv
 
-**Group dynamic membership rules:**
+### Group dynamic membership rules:
 **Acquired .json through Microsoft Graph**
 
 | Group                  | Type          | Dynamic membership rule                                                                                                                    | Status |
