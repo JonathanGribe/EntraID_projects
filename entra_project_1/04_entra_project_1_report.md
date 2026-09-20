@@ -3,11 +3,6 @@
 
 
 
-## Table of Contents
-
-
-
-
 ## 1. Tenant Overview
 
 <img width="785" height="224" alt="image" src="https://github.com/user-attachments/assets/e93c541f-38c4-4ece-b2dd-38ca40accabb" />
