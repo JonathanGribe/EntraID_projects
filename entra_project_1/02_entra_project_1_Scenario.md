@@ -110,8 +110,11 @@ graph TD
 
 **Applications implemented:**
 
-✅ Microsoft 365 F1
+✅ Microsoft 365 F1 
 
+
+> [!NOTE]
+>  Because this is a lab environment, I’m using Microsoft 365 F1 licenses to demonstrate how license assignment works without purchasing full business licenses. F1 is mainly intended for frontline workers who use shared or mobile devices, so in a real environment it wouldn’t be the right license for every role. These licenses will be applied to customer support representatives.
  
 
 
