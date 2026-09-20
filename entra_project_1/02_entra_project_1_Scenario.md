@@ -30,7 +30,7 @@ graph TD
     CEO --> CS
 ```
 
-## Table of Job Titles:
+## User and Department Structure:
 
 
 | Department       | Job Title              | Roles                                         | M365 Groups | Security Group     |   |
