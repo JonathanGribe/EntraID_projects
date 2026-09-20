@@ -1,6 +1,16 @@
 # Entra ID Basic Lab - Report
 
+## Table of Contents
 
+- [1. Tenant Overview](#1-tenant-overview)
+- [2. Users](#2-users)
+- [3. Groups](#3-groups)
+  - [3.1 Group Dynamic Membership Rules](#31-group-dynamic-membership-rules)
+- [4. Role Based Access (Key Administrators)](#4-role-based-access-key-administrators)
+  - [IT Administrator](#it-administrator)
+  - [Service Desk Analyst](#service-desk-analyst)
+  - [Accountant](#accountant)
+- [5. License Assignment](#5-license-assignment)
 
 
 ## 1. Tenant Overview
