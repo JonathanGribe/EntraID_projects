@@ -2,7 +2,7 @@
 We now want to take steps in securing our organization (Blaze Faction). We will implement stronger authentication controls after recognizing that passwords alone are insufficient.
 IT has been asked to implement MFA and Conditional Access while avoiding unnecessary disruption to employees.
 
-I've modeled this lab after he following Microsoft document: https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview
+I've modeled this lab after the common, signals, decisions, and policies. Refer Microsoft document: https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview
 
 | User Type | Authentication Requirement |
 |---|---|
