@@ -9,3 +9,4 @@ From the previous lab we have our users, groups, roles, and licenses setup and n
 More specifically, IT has been asked to implement MFA and Conditional Access while avoiding unnecessary disruption to employees.
 
 *I've modeled this lab after the common, signals, decisions, and policies given in:*  https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview
+
