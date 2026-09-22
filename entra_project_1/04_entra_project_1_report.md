@@ -32,7 +32,7 @@
 
 <img width="1492" height="906" alt="entraproject_1_groups" src="https://github.com/user-attachments/assets/4b878412-eb50-4fc7-826f-10ad06d0275a" />
 
-**See full groups:**  https://github.com/JonathanGribe/EntraID_projects/blob/main/entraproject_1_groups.csv
+**See full groups:**  https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_1/entraproject_1_groups.csv
 
 ### 3.1 Group dynamic membership rules:
 **Acquired .json through Microsoft Graph**
