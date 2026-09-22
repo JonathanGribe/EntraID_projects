@@ -58,7 +58,7 @@
 | sg_marketing           | Security      | `user.department -eq "Marketing"`                                                                                                          | On     |
 | sg_Customer Support    | Security      | `user.department -eq "Customer Support"`                                                                                                   | On     |
 
-**Created with Microsoft Graph:** https://github.com/JonathanGribe/EntraID_projects/blob/main/entraproject_1_dynamicmemberjson.md
+**Created with Microsoft Graph:** https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_1/entraproject_1_dynamicmemberjson.md
 
 
 ## 4. Role Based Access (Key administrators)
