@@ -24,7 +24,7 @@
 
 
 
-**See full employee list:**   https://github.com/JonathanGribe/EntraID_projects/blob/main/entraproject_1_users.csv
+**See full employee list:**   
 
 
 ## 3. Groups
