@@ -24,7 +24,7 @@
 
 
 
-**See full employee list:**   
+**See full employee list:**   https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_1/BlazeFaction_EntraID_Users_25.csv
 
 
 ## 3. Groups
