@@ -1,7 +1,11 @@
 
-Made sure security defaults are set to enable.  
+# Documenting the Baseline
+Since conditional access will be applied security default will be set to OFF.
+
+<img width="415" height="142" alt="image" src="https://github.com/user-attachments/assets/09289fff-a85b-4836-acb7-db68a5a1e48c" />
 
 
+# User Authentication Requirements:
 
 | User Type | Authentication Requirement |
 |---|---|
@@ -13,6 +17,7 @@ Made sure security defaults are set to enable.
 | Test Account | Used to validate and troubleshoot authentication and Conditional Access policies |
 
 
+# Conditional Access Policies:
 | Policy | Purpose |
 |---|---|
 | CA001 - Require MFA for Employees | Require multifactor authentication for standard employees |
