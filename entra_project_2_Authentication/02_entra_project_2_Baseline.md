@@ -10,9 +10,12 @@ Since conditional access will be applied security default will be set to OFF.
 ## Starting MFA, Passwordless Authentication, and SSPR Overview
 <img width="912" height="283" alt="image" src="https://github.com/user-attachments/assets/4f56ca71-abc4-4568-95d8-dc13f02bc163" />
 
-### Authentication methods based on user
-[See user list](https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_2_Authentication/exportUserRegistrationDetails_2026-9-23.csv)
+[See complete user list](https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_2_Authentication/exportUserRegistrationDetails_2026-9-23.csv)
 
+## Current Policies
+<img width="911" height="530" alt="image" src="https://github.com/user-attachments/assets/822e1400-8066-48c4-b41d-c8ad09584019" />
+
+**Baseline: No Conditional Access policies configured**
 
 ## Assessing User Authentication Requirements:
 
