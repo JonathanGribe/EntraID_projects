@@ -1,11 +1,20 @@
 
-# Documenting the Baseline
+# Setup for Conditional Access
+We will be establishing a baseline of currently existing authentication methods for users across the organization.
+
+## Documenting the Baseline
 Since conditional access will be applied security default will be set to OFF.
 
 <img width="415" height="142" alt="image" src="https://github.com/user-attachments/assets/09289fff-a85b-4836-acb7-db68a5a1e48c" />
 
+## Starting MFA, Passwordless Authentication, and SSPR Overview
+<img width="912" height="283" alt="image" src="https://github.com/user-attachments/assets/4f56ca71-abc4-4568-95d8-dc13f02bc163" />
 
-# User Authentication Requirements:
+### Authentication methods based on user
+
+
+
+## Assessing User Authentication Requirements:
 
 | User Type | Authentication Requirement |
 |---|---|
@@ -17,7 +26,7 @@ Since conditional access will be applied security default will be set to OFF.
 | Test Account | Used to validate and troubleshoot authentication and Conditional Access policies |
 
 
-# Conditional Access Policies:
+## Conditional Access Policies:
 | Policy | Purpose |
 |---|---|
 | CA001 - Require MFA for Employees | Require multifactor authentication for standard employees |
