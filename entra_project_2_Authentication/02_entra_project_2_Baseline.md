@@ -11,7 +11,7 @@ Since conditional access will be applied security default will be set to OFF.
 <img width="912" height="283" alt="image" src="https://github.com/user-attachments/assets/4f56ca71-abc4-4568-95d8-dc13f02bc163" />
 
 ### Authentication methods based on user
-
+[See user list](https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_2_Authentication/exportUserRegistrationDetails_2026-9-23.csv)
 
 
 ## Assessing User Authentication Requirements:
