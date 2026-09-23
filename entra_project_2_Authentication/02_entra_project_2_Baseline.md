@@ -1,4 +1,6 @@
 
+Made sure security defaults are set to enable.  
+
 
 
 | User Type | Authentication Requirement |
