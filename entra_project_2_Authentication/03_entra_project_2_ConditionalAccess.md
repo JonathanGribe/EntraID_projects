@@ -1,6 +1,6 @@
 # Applying Conditional Access
 
-Once we got done with the baseline we are now moving into applying conditional access to all of our users.
+Once we got done with the baseline we are now moving into applying conditional access to all of our users based on our policies laid out below.
 
 ## Stage 1 - Pilot run
 
