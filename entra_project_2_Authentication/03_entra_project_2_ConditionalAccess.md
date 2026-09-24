@@ -1,6 +1,25 @@
 # Applying Conditional Access
 
-Once we got done with the baseline we are now moving into applying conditional access to all of our users based on our policies laid out below.
+Once we got done with the baseline we are now moving into applying conditional access to all of our users based on our policies laid out below:
+
+## Conditional Access Policies:
+| Policy | Purpose |
+|---|---|
+| CA001 - Require MFA for Employees | Require multifactor authentication for standard employees |
+| CA002 - Require MFA for Administrators | Apply stronger MFA requirements to administrative accounts |
+| CA003 - Block Legacy Authentication | Prevent access using older authentication protocols that do not support modern security controls |
+| CA004 - Protect Azure / Entra Administrative Access | Add additional authentication requirements when accessing administrative resources |
+| CA005 - Restrict Access from Selected Locations | Control access based on configured network or geographic locations |
+| CA006 - Require Strong Authentication for Sensitive Roles | Require stronger authentication methods for accounts with elevated privileges |
+
+
+Each policy implemented will follow the framework:
+
+```mermaid
+
+Baseline → Pilot → CA001 → test → validate → expand → CA002 → test → validate → CA003... → final architecture/results summary
+
+```
 
 ## Stage 1 - Pilot run
 
@@ -10,6 +29,7 @@ We want to test out our conditional access on a few users before applying it to 
 2. Put two users into the group
 
 <img width="1027" height="399" alt="image" src="https://github.com/user-attachments/assets/9c9755b7-a3c4-4ece-8718-04f73f0f5804" />
+
 
 
 ## Stage 2 - Created our first Conditional Access policy
