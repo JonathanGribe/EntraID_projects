@@ -9,4 +9,4 @@ We want to test out our conditional access on a few users before applying it to 
 1. Created a new security group: sg_CA_testUsers
 2. Put two users into the group
 
-## Stage 2 - Created our first Conditional Access policy ([based on CA001](entra_project_2_Authentication/02_entra_project_2_Baseline.md## Conditional Access Policies))
+## Stage 2 - Created our first Conditional Access policy ([based on CA001](entra_project_2_Authentication/02_entra_project_2_Baseline.md# Conditional Access Policies))
