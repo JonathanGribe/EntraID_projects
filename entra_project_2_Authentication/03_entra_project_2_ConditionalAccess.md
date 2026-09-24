@@ -15,11 +15,9 @@ Once we got done with the baseline we are now moving into applying conditional a
 
 Each policy implemented will follow the framework:
 
-```mermaid
+**Baseline → Pilot → CA001 → test → validate → expand → CA002 → test → validate**
 
-Baseline → Pilot → CA001 → test → validate → expand → CA002 → test → validate → CA003... → final architecture/results summary
 
-```
 
 ## Stage 1 - Pilot run
 
