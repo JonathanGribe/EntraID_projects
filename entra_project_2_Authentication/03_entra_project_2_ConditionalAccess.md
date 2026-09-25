@@ -34,12 +34,26 @@ This policy was applied to the group sg_CA_testUsers
 
 4. Testing our conditional access policy
 
-1. Login with an account with No conditional Access
-2. Login with an account with Conditional Access
+A. Login with an account with No conditional Access
+
+
+--Confirmed she is a member of sg_Allemployees
+<img width="515" height="302" alt="image" src="https://github.com/user-attachments/assets/7db41b3e-a517-47d3-a8cd-7bae06ec80ce" />
+
+---Amelia Martin - No CA - Can log in w/o MFA
+<img width="1283" height="897" alt="image" src="https://github.com/user-attachments/assets/ad24f6be-cf3e-4365-b5c7-cf751da75ce1" />
+
 
 5. Applied the policy to the sg_Allemployees
 
 <img width="673" height="817" alt="image" src="https://github.com/user-attachments/assets/38427819-26c6-4620-b53c-1ba6665c9da3" />
+
+6. Go back and try to login as Amelia Martin
+Confirmed Policy is working - requiring MFA for non-admin users
+<img width="442" height="371" alt="image" src="https://github.com/user-attachments/assets/9510bc97-b02e-4b76-bf45-a056ed3360b6" />
+<img width="444" height="568" alt="image" src="https://github.com/user-attachments/assets/c4217c62-1a8d-42d8-90ff-982a1e8a4a9d" />
+
+
 
 
 ## Policy CA002 - Require MFA for Administrators
