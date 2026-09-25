@@ -41,3 +41,8 @@ This policy was applied to the group sg_CA_testUsers
 
 <img width="673" height="817" alt="image" src="https://github.com/user-attachments/assets/38427819-26c6-4620-b53c-1ba6665c9da3" />
 
+
+## Policy CA002 - Require MFA for Administrators
+Similar application to CA001, but we are targeting users based on their role. 
+
+
