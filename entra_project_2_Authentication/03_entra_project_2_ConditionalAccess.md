@@ -56,7 +56,10 @@ Confirmed Policy is working - requiring MFA for non-admin users
 
 
 
-## Policy CA002 - Require MFA for Administrators
+## Policy CA002 - Require Authentication Strength
+These Strong MFA methods are done because these users are given role-based access.  [link to part in project1]
+<img width="256" height="237" alt="image" src="https://github.com/user-attachments/assets/b02b17fa-1d15-4fc4-8574-3c92e809a45e" />
+
 Similar application to CA001, but we are targeting users based on their role. 
 
 
