@@ -62,4 +62,6 @@ These Strong MFA methods are done because these users are given role-based acces
 
 Similar application to CA001, but we are targeting users based on their role. 
 
+## CA003 - Block Legacy Authentication
+
 
