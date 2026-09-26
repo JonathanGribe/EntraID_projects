@@ -72,4 +72,15 @@ Similar application to CA001, but we are targeting users based on their role.
 3. Blocked Access on those conditions
 
 ## CA004 - 
+We will be applying the following settings:
+
+| Setting | CA004 value |
+|---|---|
+| Name | `CA004 - Protect Azure / Entra Administrative Access` |
+| Users | **Include: All users** |
+| Exclude | Your emergency access account |
+| Target resources → Include | **Select resources → Windows Azure Service Management API** |
+| Conditions | Leave unconfigured for this first version |
+| Grant | **Grant access → Require multifactor authentication** |
+| Enable policy | **Report-only** initially |
 
