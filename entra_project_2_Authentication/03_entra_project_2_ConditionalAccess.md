@@ -1,4 +1,4 @@
-# Applying Conditional Access
+# Applying Conditional Access Policies
 
 Once we got done with the baseline we are now moving into applying conditional access to all of our users based on our policies laid out below:
 
@@ -13,7 +13,7 @@ Once we got done with the baseline we are now moving into applying conditional a
 | CA006 - Require Strong Authentication for Sensitive Roles | Require stronger authentication methods for accounts with elevated privileges |
 
 
-
+We will be working in the EntraID --> Conditional Access --> Policies
 
 ## Policy CA001 - Require MFA for Employees
 
