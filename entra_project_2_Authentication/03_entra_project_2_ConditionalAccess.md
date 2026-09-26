@@ -63,8 +63,12 @@ These Strong MFA methods are done because these users are given role-based acces
 Similar application to CA001, but we are targeting users based on their role. 
 
 ## CA003 - Block Legacy Authentication
+
+
+1. Scope: sg_Allusers group
+2. Targeted specifically at legacy protocols:
 <img width="274" height="470" alt="image" src="https://github.com/user-attachments/assets/30cee181-2fb4-4bcf-844a-b9e7327914cf" />
 
-
+3. Blocked Access on those conditions
 
 
