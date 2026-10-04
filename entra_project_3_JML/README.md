@@ -1,4 +1,7 @@
 # Entra ID Project 3 - Demonstrating the JML Lifecycle
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/8706ff49-5124-4e27-aeaf-cfc5f2520388" />
+
+
 
 ## Table of Contents
 1. About
