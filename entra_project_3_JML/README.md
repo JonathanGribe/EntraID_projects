@@ -19,7 +19,7 @@ on how that is understood is called the Joiner, Mover, and Leaver Lifecycle.  In
 
 
 ## Scenario
-Blaze Faction has a few new employees they would like to onboard, while others will we switching and leaving the group. We walk through a few examples on how this is handled. 
+Blaze Faction has a new employee they would like to onboard, while others will we switching and leaving the group. We walk through a few examples on how this is handled. 
 
 | Request | Employee | Scenario |
 |---|---|---|
