@@ -11,4 +11,4 @@ I am interested in pursuing IAM as a career pathway and the next step in my care
 ## Entra Project 2 - Authentication
 **About**: In this module we explore conditional access and implement the companies policies through Conditional Access in Entra ID
 
-[See lab work]()
+[See lab work](https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_2_Authentication/01_entra_project_2_README.md)
