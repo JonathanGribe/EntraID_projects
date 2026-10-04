@@ -12,3 +12,8 @@ I am interested in pursuing IAM as a career pathway and the next step in my care
 **About**: In this module we explore conditional access and implement the companies policies through Conditional Access in Entra ID
 
 [See lab work](https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_2_Authentication/01_entra_project_2_README.md)
+
+## Entra Project 3 - The JML Lifecycle 
+**About**: In this lab we focus on understanding the Joiner, Mover, Leaver Lifecycle in our fictious company
+
+Blaze Faction’s HR department submits approved employee changes. IT processes those requests in Microsoft Entra ID, verifies the resulting group memberships and account status, and records the outcome.
