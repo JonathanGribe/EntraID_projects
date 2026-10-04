@@ -24,8 +24,10 @@ Blaze Faction has a few new employees they would like to onboard, while others w
 | Request | Employee | Scenario |
 |---|---|---|
 | HR-001 | Maya Chen | New artist joins |
-| HR-002 |  | Transfers from Art to Engineering |
-| HR-003 |  | Leaves Customer Support |
+| HR-002 | William Harris | Transfers from Art to Engineering |    
+| HR-003 | Henry Turner  | Leaves company |
+
+Maya replaces William who replaces Henry who leaves the company
 
 ## Platforms
 Entra ID
