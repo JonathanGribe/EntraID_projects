@@ -21,6 +21,12 @@ on how that is understood is called the Joiner, Mover, and Leaver Lifecycle.  In
 ## Scenario
 Blaze Faction has a few new employees they would like to onboard, while others will we switching and leaving the group. We walk through a few examples on how this is handled. 
 
+| Request | Employee | Scenario |
+|---|---|---|
+| HR-001 | Maya Chen | New artist joins |
+| HR-002 |  | Transfers from Art to Engineering |
+| HR-003 |  | Leaves Customer Support |
+
 ## Platforms
 Entra ID
 Microsoft 365 Admin
