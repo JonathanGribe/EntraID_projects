@@ -18,7 +18,7 @@ In any organizations employees will constantly be in different status' within th
 on how that is understood is called the Joiner, Mover, and Leaver Lifecycle.  In this lab we explore the process on how we accomplish this within Entra ID.  
 
 
-## Scenario
+## Scenario and Scope
 Blaze Faction has a new employee they would like to onboard, while others will we switching and leaving the group. We walk through a few examples on how this is handled. 
 
 | Request | Employee | Scenario |
