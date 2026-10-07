@@ -18,3 +18,8 @@ About: In this lab we focus on understanding the Joiner, Mover, Leaver Lifecycle
 Blaze Faction’s HR department submits approved employee changes. IT processes those requests in Microsoft Entra ID, verifies the resulting group memberships and account status, and records the outcome.
 
 See lab work
+
+## Entra Project 3A - Enterprise Applications
+About: In this lab we create several internal applications used by this company and host them on Azure App Services.  We will then create a login portal and link it to Entra ID and finally set up assignments based on department.
+
+See lab work
