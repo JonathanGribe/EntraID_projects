@@ -17,3 +17,5 @@ I am interested in pursuing IAM as a career pathway and the next step in my care
 **About**: In this lab we focus on understanding the Joiner, Mover, Leaver Lifecycle in our fictious company
 
 Blaze Faction’s HR department submits approved employee changes. IT processes those requests in Microsoft Entra ID, verifies the resulting group memberships and account status, and records the outcome.
+
+[See lab work](https://github.com/JonathanGribe/EntraID_projects/blob/main/entra_project_3_JML/01_entra_project_3_README.md)
