@@ -50,3 +50,5 @@ Once that works, we can connect the Art group and demonstrate how joining or lea
 
 
 <img width="1053" height="802" alt="image" src="https://github.com/user-attachments/assets/34015711-1911-464a-a720-795c3e81d752" />
+
+## Testing
