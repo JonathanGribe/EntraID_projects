@@ -9,6 +9,10 @@ Code:
 Verify login after connecting the application to entra:
 <img width="439" height="557" alt="image" src="https://github.com/user-attachments/assets/ec3de507-ebf1-44e7-b0d4-18f534b0baaa" />
 
+After login:
+<img width="1553" height="911" alt="image" src="https://github.com/user-attachments/assets/304fac76-4478-490f-b864-5efc170db6e7" />
+
+
 Scripts ran:
 
 1. include powershell code
