@@ -8,3 +8,8 @@ Code:
 
 Verify login after connecting the application to entra:
 <img width="439" height="557" alt="image" src="https://github.com/user-attachments/assets/ec3de507-ebf1-44e7-b0d4-18f534b0baaa" />
+
+Scripts ran:
+
+1. include powershell code
+2. include the .env.local file, which includes the syncing of the tenant id and client id to allow it to sync to entra.
