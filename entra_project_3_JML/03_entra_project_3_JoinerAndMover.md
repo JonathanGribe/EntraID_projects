@@ -30,6 +30,12 @@ William Harris will be moving from the Art department to the Engineering departm
 Changing Williams Department attribute to Engineering.  This should put him in sg_Engineering as per dynamic rule:
 <img width="220" height="130" alt="image" src="https://github.com/user-attachments/assets/dd309918-e377-415a-8657-5e4d4818c48e" />
 
+<img width="727" height="758" alt="image" src="https://github.com/user-attachments/assets/43e486da-5e51-4ad2-b5c1-b9b40211f55d" />
 
 
+**Verifying William is now in the Engineering group (sg_Engineering):**
+
+After refreshing Entra Portal William is now showing up under sg_Engineering:
+
+<img width="1445" height="289" alt="image" src="https://github.com/user-attachments/assets/b1ee7a7c-df80-437a-aad7-e9fe3fb7acbf" />
 
