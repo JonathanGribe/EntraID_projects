@@ -17,6 +17,8 @@ Refer: [link to all of the dynamic group rules in entra project 1]
 ### Confirming Maya has access to the Art Application
 #### In the meantime....Signing up Maya up for MFA
 <img width="446" height="570" alt="image" src="https://github.com/user-attachments/assets/4192abc1-93c1-447a-b3fb-10fd1a92e304" />
+and had to troubleshoot....
+<img width="655" height="814" alt="image" src="https://github.com/user-attachments/assets/5d1d69c6-7c87-466e-a67a-6e7f2858af2b" />
 
 
 
