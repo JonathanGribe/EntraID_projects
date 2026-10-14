@@ -54,3 +54,8 @@ Once that works, we can connect the Art group and demonstrate how joining or lea
 ## Deploying to Azure Web App (After our test with Local)
 
 [Visit App](https://purple-glacier-0f997950f.5.azurestaticapps.net/)
+
+## Assigning our application to the art department (sg_Art)
+
+<img width="1545" height="432" alt="image" src="https://github.com/user-attachments/assets/085c0581-7d6f-4930-8387-8ee113a6e523" />
+
