@@ -15,6 +15,9 @@ Refer: [link to all of the dynamic group rules in entra project 1]
 <img width="970" height="635" alt="image" src="https://github.com/user-attachments/assets/d6144e8a-8c32-41da-98f5-ff1d0fd4034b" />
 
 ### Confirming Maya has access to the Art Application
+#### In the meantime....Signing up Maya up for MFA
+<img width="446" height="570" alt="image" src="https://github.com/user-attachments/assets/4192abc1-93c1-447a-b3fb-10fd1a92e304" />
+
 
 
 ## Mover
