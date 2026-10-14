@@ -10,3 +10,6 @@ It was a URI mismatch error: https://learn.microsoft.com/en-us/troubleshoot/entr
 
 Followed the directions to configure the URI redirect:
 <img width="774" height="144" alt="image" src="https://github.com/user-attachments/assets/0d5acff1-360f-455e-8bc9-cc9223ce697e" />
+
+Confirmed Maya able to log into the application:
+<img width="1270" height="796" alt="image" src="https://github.com/user-attachments/assets/64e2364f-096f-4b92-9dae-69fd108b15a7" />
