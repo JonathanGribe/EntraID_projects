@@ -24,4 +24,12 @@ and had to troubleshoot....
 
 ## Mover
 
+William Harris will be moving from the Art department to the Engineering department to replace Henry Turner who will be leaving.  We see William here:
+<img width="847" height="614" alt="image" src="https://github.com/user-attachments/assets/2f5a08af-ef87-4d61-b976-dbf472944b1a" />
+
+Changing Williams Department attribute to Engineering.  This should put him in sg_Engineering as per dynamic rule:
+<img width="220" height="130" alt="image" src="https://github.com/user-attachments/assets/dd309918-e377-415a-8657-5e4d4818c48e" />
+
+
+
 
