@@ -1,7 +1,7 @@
 # Art Application
 
 About: We add a bit more depth to our JML lab by creating a static application that the Art employees will use to help track and share there work.  This is only a dummy application that demonstrate
-access.  Application created with ChatGPT.
+access when it comes to internal applications in an organization.  Application created with ChatGPT.
 
 ## Front End - template
 <img width="1908" height="990" alt="image" src="https://github.com/user-attachments/assets/046fe59b-2ade-4200-b3bc-aa1d499f9cb4" />
