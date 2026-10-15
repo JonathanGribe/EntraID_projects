@@ -19,6 +19,14 @@ Group membership: sg_Engineering
 Licenses: None.
 Application access: None.
 
+Verifying Henry's access:
+
+Is currently in sg_Engineering group:
+<img width="497" height="302" alt="image" src="https://github.com/user-attachments/assets/4ed86ff2-adeb-46aa-8cdf-7dcf4161edf7" />
+
+Can log into microsoft account via company email:
+<img width="1152" height="416" alt="image" src="https://github.com/user-attachments/assets/328d6765-95a8-4416-9655-559e9f41b850" />
+
 
 2. Disable Henry’s account
 3. Revoke his sessions
