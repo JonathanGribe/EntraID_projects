@@ -27,13 +27,18 @@ Is currently in sg_Engineering group:
 Can log into microsoft account via company email:
 <img width="1152" height="416" alt="image" src="https://github.com/user-attachments/assets/328d6765-95a8-4416-9655-559e9f41b850" />
 
+For Henry we will do the offboarding process manually. 
 
-2. Disable Henry’s account
-3. Revoke his sessions
-4. Review and remove access
-5. Verify that Henry can no longer sign in
-6. Review data and licenses
-7. Simulate the retention period, then delete
+2. Disable Henry’s account - This will block Henry from signing in
+User --> Henry Turner--> Overview --> Properties --> Settings --> Uncheck "Account enabled"
+<img width="878" height="385" alt="image" src="https://github.com/user-attachments/assets/c5cd01a8-c1a3-4092-a45a-c08438948a66" />
+
+
+4. Revoke his sessions
+5. Review and remove access
+6. Verify that Henry can no longer sign in
+7. Review data and licenses
+8. Simulate the retention period, then delete
 
 Five screenshots will be included: starting access, disabled account, session-revocation audit entry, blocked sign-in, and Henry under Deleted users. 
 Add a short checklist of the permissions and licenses you reviewed.
