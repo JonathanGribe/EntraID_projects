@@ -42,3 +42,7 @@ After refreshing Entra Portal William is now showing up under sg_Engineering:
 
 <img width="1445" height="289" alt="image" src="https://github.com/user-attachments/assets/b1ee7a7c-df80-437a-aad7-e9fe3fb7acbf" />
 
+William has also lost access to the Art Application:
+<img width="1467" height="191" alt="image" src="https://github.com/user-attachments/assets/2d0f925a-4f45-4974-8d9e-1d3c56ad9e18" />
+
+
