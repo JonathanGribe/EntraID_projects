@@ -1,18 +1,25 @@
 # Leaver
-Henry Turner will leaving the organization.
+Henry Turner will leaving the organization. The following simulates an offboarding process.
 
 
-**1. Termination request received from HR**
+**1. Termination request received from HR:**
   An offboarding ticket for Henry is created for IT from HR
 
-**Employee:** Henry Turner. User Principle name: henry.turner@blazefaction.com
+Employee: Henry Turner. User Principle name: henry.turner@blazefaction.com
 
-**Requested by:** HR — simulated.
+Requested by: HR — simulated.
 
-**Effective date/time:** Henry’s employment ends October 15 at 5:00 p.m. and requests that IT disable his access at that time.
+Effective date/time: Henry’s employment ends October 15 at 5:00 p.m. and requests that IT disable his access at that time.
 
-**Requested action:** Disable sign-in, revoke sessions, and remove access according to the lab’s offboarding procedure.
- 
+Requested action: Disable sign-in, revoke sessions, and remove access according to the lab’s offboarding procedure.
+
+**Henry's starting access:**
+Account: Enabled.
+Group membership: sg_Engineering
+Licenses: None.
+Application access: None.
+
+
 2. Disable Henry’s account
 3. Revoke his sessions
 4. Review and remove access
