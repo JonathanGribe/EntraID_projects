@@ -71,7 +71,7 @@ Similar application to CA001, but we are targeting users based on their role.
 
 3. Blocked Access on those conditions
 
-## CA004 - 
+## CA004 -  Protect Azure / Entra Administrative Access
 We will be applying the following settings:
 
 | Setting | CA004 value |
