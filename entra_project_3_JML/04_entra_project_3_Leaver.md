@@ -40,5 +40,5 @@ User --> Henry Turner--> Overview --> Properties --> Settings --> Uncheck "Accou
 7. Review data and licenses
 8. Simulate the retention period, then delete
 
-Five screenshots will be included: starting access, disabled account, session-revocation audit entry, blocked sign-in, and Henry under Deleted users. 
+**Five screenshots will be included:** starting access, disabled account, session-revocation audit entry, blocked sign-in, and Henry under Deleted users. 
 Add a short checklist of the permissions and licenses you reviewed.
