@@ -35,7 +35,8 @@ User --> Henry Turner--> Overview --> Properties --> Settings --> Uncheck "Accou
 
 
 4. Revoke his sessions
-<img width="709" height="870" alt="image" src="https://github.com/user-attachments/assets/2cd44de0-1fe1-452c-a872-f2faa019aadd" />
+<img width="709" height="870" alt="image" src="https://github.com/user-attachments/assets/3ae069d8-d9e9-4cc8-9b38-0699c57d83b9" />
+
 
 6. Review and remove access to any groups, licenses, applications, etc....
 Henry's employment is pretty simple. He just has access to the group. Henry could have had alot more assigned to him, in which has this process wouldn't be as simple. 
