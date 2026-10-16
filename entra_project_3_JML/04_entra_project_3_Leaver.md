@@ -35,10 +35,12 @@ User --> Henry Turner--> Overview --> Properties --> Settings --> Uncheck "Accou
 
 
 4. Revoke his sessions
-5. Review and remove access
-6. Verify that Henry can no longer sign in
-7. Review data and licenses
-8. Simulate the retention period, then delete
+<img width="709" height="870" alt="image" src="https://github.com/user-attachments/assets/2cd44de0-1fe1-452c-a872-f2faa019aadd" />
+
+6. Review and remove access
+7. Verify that Henry can no longer sign in
+8. Review data and licenses
+9. Simulate the retention period, then delete
 
 **Five screenshots will be included:** starting access, disabled account, session-revocation audit entry, blocked sign-in, and Henry under Deleted users. 
 Add a short checklist of the permissions and licenses you reviewed.
