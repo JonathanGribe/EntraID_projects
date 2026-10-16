@@ -41,6 +41,10 @@ User --> Henry Turner--> Overview --> Properties --> Settings --> Uncheck "Accou
 6. Review and remove access to any groups, licenses, applications, etc....
 Henry's employment is pretty simple. He just has access to the group. Henry could have had alot more assigned to him, in which has this process wouldn't be as simple. 
 
+Groups Henry is apart of that will need to be removed:
+<img width="1484" height="302" alt="image" src="https://github.com/user-attachments/assets/f93713ee-7f27-463b-99cc-cfc47e80fb67" />
+
+
 8. Verify that Henry can no longer sign in
 9. Review data and licenses
 10. Simulate the retention period, then delete
