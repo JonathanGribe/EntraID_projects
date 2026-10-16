@@ -37,10 +37,12 @@ User --> Henry Turner--> Overview --> Properties --> Settings --> Uncheck "Accou
 4. Revoke his sessions
 <img width="709" height="870" alt="image" src="https://github.com/user-attachments/assets/2cd44de0-1fe1-452c-a872-f2faa019aadd" />
 
-6. Review and remove access
-7. Verify that Henry can no longer sign in
-8. Review data and licenses
-9. Simulate the retention period, then delete
+6. Review and remove access to any groups, licenses, applications, etc....
+Henry's employment is pretty simple. He just has access to the group. Henry could have had alot more assigned to him, in which has this process wouldn't be as simple. 
+
+8. Verify that Henry can no longer sign in
+9. Review data and licenses
+10. Simulate the retention period, then delete
 
 **Five screenshots will be included:** starting access, disabled account, session-revocation audit entry, blocked sign-in, and Henry under Deleted users. 
 Add a short checklist of the permissions and licenses you reviewed.
